@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WarThunder tactical map</string>
+    <string name="app_name">WarThunder taktisk kart</string>
     
-    <string name="settings">Settings</string>
-    <string name="hide">Hide</string>
-    <string name="danger">Danger notification</string>
-    <string name="nodanger">OK notification</string>
+    <string name="settings">Innstillinger</string>
+    <string name="hide">skjul</string>
+    <string name="danger">fare advarsel</string>
+    <string name="nodanger">OK advarsel</string>
     <string name="proximity_wrn">Radius:</string>
     
     
-    <string name="more">More settings</string>
-    <string name="connerror">No connection</string>
+    <string name="more">Flere Innstillinger</string>
+    <string name="connerror">ingen kontakt</string>
     
-    <string name="gui">GUI settings</string>
-    <string name="screenon">Keep screen on</string>
-    <string name="counters">Counters</string>
+    <string name="gui">GUI Innstillinger</string>
+    <string name="screenon">hold skjermen på</string>
+    <string name="counters">teller</string>
     
     <string name="ip_h">IP address</string>
-    <string name="find_ip">Scan</string>
+    <string name="find_ip">søk</string>
     <string name="set_ip">Set IP</string>
-    <string name="ip">IP of computer with War Thunder (without port):</string>
+    <string name="ip">IP av pcen med War Thunder (uten port):</string>
     
     
-    <string name="zoom_btns">Zoom buttons</string>
-    <string name="donate">Support</string>
-    <string name="enemy_vehicles">Enemy vehicles</string>
-    <string name="friendly_vehicles">Friendly vehicles</string>
-    <string name="friendly_structures">Friendly structures</string>
-    <string name="enemy_structures">Enemy structures</string>
+    <string name="zoom_btns">Zoom knapper</string>
+    <string name="donate">bidra</string>
+    <string name="enemy_vehicles">fiendtlige kjøretøy</string>
+    <string name="friendly_vehicles">vennlige kjøretøy</string>
+    <string name="friendly_structures">vennlige byggninger</string>
+    <string name="enemy_structures">fiendtlige bygninger</string>
     
-    <string name="updates_speed">Updates frequency</string>
+    <string name="updates_speed">oppdaterings hastighet</string>
     <string name="how_ip">"How to get an IP address see: http://ip.junkcode.net/help"</string>
-    <string name="how_ip_der">"If you don't know how to get your IP address click here"</string>
-    <string name="ip_err">IP address not valid</string>
+    <string name="how_ip_der">"hvis du ikke vet din IP adressen din klikk her"</string>
+    <string name="ip_err">IP adressen er ikke gyldig</string>
     <string name="ip_err_wrong">"input address in format \r\nXXX.XXX.XXX.XXX \r\n Click on Help for guide to get right one."</string>
     <string name="ip_err_local">"127.0.0.1 is not right address. \r\n Click on Help for guide to get right one."</string>
     <string-array name="updates_speed_array">
-        <item >Very Fast</item>
-        <item >Fast</item>
+        <item >veldig fort</item>
+        <item >fort</item>
         <item >Medium</item>
-        <item >Slowish</item>
-        <item >Slow</item>
-        <item >Srsly slow</item>
-        <item >5 sec</item>
+        <item >saktere</item>
+        <item >tregt</item>
+        <item >veldig tregt</item>
+        <item >5 sek</item>
     </string-array>
 
-     <string name="info_title">About</string>
+     <string name="info_title">Om</string>
     <string name="info_msg">
         "This is unofficial app made by War Thunder fans!\r\n"
         "This app is still in beta but feel free to contact us with bugs or new ideas at:\r\n"
@@ -74,10 +74,10 @@
 
     <string name="planeicons">Airplane icons</string>
     <string-array name="planes_icon_size">
-        <item >Big</item>
+        <item >stor</item>
         <item >Medium</item>
-        <item >Small</item>
-        <item >Very small</item>
+        <item >liten</item>
+        <item >veldig liten</item>
     </string-array>
     
     <string name="lines">Navigation lines</string>
